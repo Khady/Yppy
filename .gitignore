@@ -1,0 +1,9 @@
+*.quote
+*.pyc
+*~
+*.yml
+tmp
+config
+pypeul
+pypeul.py
+TAGS

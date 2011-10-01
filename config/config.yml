@@ -1,0 +1,25 @@
+freenode:
+    host: irc.freenode.org
+    port: 6667
+    nickname: Yppy-test
+    realname: Yppy bot
+    linkfile: /tmp
+    channels:
+        \#linux:
+            description: 'ici on parle de linux'
+            op: ['Khady']
+        \#debian:
+            description: 'debian'
+            op: ['Khady']
+    modules: []
+rezosup:
+    host: irc.rezosup.org
+    port: 6667
+    nickname: Yppy-test
+    realname: Yppy bot
+    linkfile: /tmp
+    channels:
+        \#linux:
+            description: 'chan de test'
+            op: ['Khady']
+    modules: ['Modadmin']

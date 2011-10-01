@@ -1,0 +1,9 @@
+Modular bot in Python 3 based on pypeul.
+
+REQUIREMENTS:
+    - pypeul (https://bitbucket.org/zopieux/pypeul/src)
+    - python3
+    - python-yaml
+
+AUTHOR:
+    - Louis Roché <louis@louisroche.net>
